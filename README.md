@@ -15,3 +15,5 @@
 2. Click into the Navs & tabs menu and scroll down to the horizonal alignment options
 3. Copy the horizonal alignment navigation bar as a right aligned menu with class justify-content-end
 4. Add the copied code into html.index 
+5. Change the names of the default links to (portfolio, about me and contact)
+6. Change the href links to reflect where they will link to 
