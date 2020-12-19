@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(130,130,130);
+    background-color: rgb(238,216,211);
 }
 
 main {
@@ -28,4 +28,12 @@ main {
     height: 200px;   
     width: 200px;
     margin: 15px;
+}
+
+#btn-color {
+    background-color: rgb(189,136,125);
+}
+
+footer {
+    color: rgb(189,136,125);
 }
