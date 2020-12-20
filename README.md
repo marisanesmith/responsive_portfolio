@@ -28,9 +28,9 @@ The purpose of this project is to create a responsive portfolio website with mul
 
 ![Full Size Portfolio Page](assets/images/portfolio-comp.png)
 
-![Tablet Size Portfolio Page](assets/images/portfolio-tablet.png)
+![Tablet Size Portfolio Page](assets/images/porfolio-tablet.png)
 
-![Phone Size Portfolio Page](asets/images/portolio-phone.png)
+![Phone Size Portfolio Page](asets/images/portfolio-phone.png)
 
 ## Create a Responsive Contact Page
 1. Use Bootstrap to create the Contact page
