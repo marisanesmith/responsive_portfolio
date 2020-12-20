@@ -4,7 +4,9 @@ The purpose of this project is to create a responsive portfolio website with mul
 
 ## Table of Contents
 * [Add Bootstrap Reference Links](#add-bootstrap-reference-links)
-* [Add the Navigation Bar](#add-the-navigation-bar)
+* [Create a Responsive About Me Page](#create-a-responsive-about-me-page)
+* [Create a Responsive Portfolio Page](#create-a-responsive-portfolio-page)
+* [Create a Responsive Contact Page](#create-a-responsive-contact-page)
 * [Providing a URL for the Website](#Providing-a-URL-for-the-Website)
 * [Credits](#Credits)
 
@@ -19,7 +21,25 @@ The purpose of this project is to create a responsive portfolio website with mul
 
 ![Tablet Size About Me Page](assets/images/about-me-tablet.png)  
 
-![Phone Size About Me Page](assets/images/about-me-phones.png)
+![Phone Size About Me Page](assets/images/about-me-phone.png)
+
+## Create a Responsive Portfolio Page
+1. Use Bootstrap to create the Portfolio page
+
+![Full Size Portfolio Page](assets/images/portfolio-comp.png)
+
+![Tablet Size Portfolio Page](assets/images/portfolio-tablet.png)
+
+![Phone Size Portfolio Page](asets/images/portolio-phone.png)
+
+## Create a Responsive Contact Page
+1. Use Bootstrap to create the Contact page
+
+![Full Size Contact Page](assets/images/contact-comp.png)
+
+![Tablet Size Contact Page](assets/images/contact-tablet.png)
+
+![Phone Size Contact Page](assets/images/contact-phone.png)
 
 
 ## Providing a URL for the website
