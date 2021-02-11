@@ -43,12 +43,6 @@ The purpose of this project is to create a responsive portfolio website with mul
 
 
 ## Providing a URL for the website
-1. Open Github.com
-2. Create a new repository
-3. Add a repository name and optional description
-4. Make the repo public and add a README
-5. Create repository
-6. Inside the repo go to settings, scroll down to GitHub Pages and publish your site to the Branch: main
 
 [GitHub Live Site](https://marisanesmith.github.io/responsive_portfolio)
 

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--CSS Bootstrap-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        <!--Javascript Bootstrap-->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <!-- External CSS stylesheet linked -->
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+        <title>Photography</title>
+    </head>
+
+    <body>
+        <!-- This is the navigation bar-->
+        <nav class="navbar navbar-expand-lg">
+            <!--This is my name in the nav bar-->
+            <a class="navbar-brand name" href="index.html">Marisa NeSmith</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <!--These are the nav links to my Contact, Portfolio and About page-->
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html"> Contact </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="portfolio.html">Portfolio <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html">About</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="photography.html"> Photography<span class="sr-only">(current)</span></a>
+                  </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+        <main>
+            <!--This is the portfolio section with all the images-->
+            <div id="portfolio" class="container p-5 mb-5 bg-white">
+                <h2 class=mb-5> Portfolio </h2>
+                <hr>
+                <div class="row">
+                    <img src="./assets/images/philippines.jpg" alt="Entalula island in the Philippines with turqouise water and a small stretch of white sand beach that is surrounded by palm trees">
+                    <img src="./assets/images/maldives.jpg" alt="Over the water villas on stilts in the Maldives with an orange and pink sky during sunset">
+                </div>
+                <div class="row">
+                    <img src="./assets/images/myanmar.jpg" alt="Girl sitting on a temple covered in bricks with hot air balloons in the sky">
+                    <img src="./assets/images/norway.jpg" alt="Red fishing hut houses on rocks by the water with a large mountain in the background">
+                </div>
+                <div class="row">
+                    <img src="./assets/images/bali.jpg" alt="Two people walking along a path in Bali surrounded by palm trees">
+                </div>
+            </div>
+        </main>
+    
+        <!--This is the footer-->
+        <footer>
+                <div class="footer fixed-bottom bg-light text-center p-1 "> Copyright © This World Traveled 2020
+                </div>
+            </div>
+        </footer>
+
+    </body>
+    </html>
