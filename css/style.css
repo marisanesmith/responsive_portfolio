@@ -10,9 +10,13 @@ main {
     margin-top: 75px;
 }
 
-nav {
+a {
     color: #766c5b;
 
+}
+
+.navbar-toggler-icon {
+    color: #766c5b !important;
 }
 
 #bio-photo {
@@ -39,7 +43,7 @@ a:hover {
     font-family: "Playfair Display", sans-serif;
     font-weight: 500;
     font-size: 44px;
-    color: #766c5b;
+    color: #766c5b !important;
 }
 
 #portfolio img {
