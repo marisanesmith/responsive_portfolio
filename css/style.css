@@ -3,11 +3,11 @@
 body {
     /* background-color: rgb(238,216,211); */
     background-color: #efe9db;
-
 }
 
 main {
     margin-top: 75px;
+    margin-bottom: 150px;
 }
 
 a {
